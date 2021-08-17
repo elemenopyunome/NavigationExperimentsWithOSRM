@@ -141,7 +141,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Downloader.cpp" />
-    <ClCompile Include="HTTPDownloader.cpp" />
     <ClCompile Include="NavigationExperimentsWithOSRM.cpp" />
   </ItemGroup>
   <ItemGroup>

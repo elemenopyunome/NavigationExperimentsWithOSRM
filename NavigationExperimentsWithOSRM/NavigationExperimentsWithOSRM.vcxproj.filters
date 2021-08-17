@@ -18,9 +18,6 @@
     <ClCompile Include="NavigationExperimentsWithOSRM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HTTPDownloader.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Downloader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
