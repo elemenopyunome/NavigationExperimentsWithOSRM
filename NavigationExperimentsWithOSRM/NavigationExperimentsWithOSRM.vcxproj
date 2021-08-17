@@ -146,11 +146,6 @@
   <ItemGroup>
     <ClInclude Include="Downloader.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="OldTestCode.htm">
-      <DeploymentContent>true</DeploymentContent>
-    </None>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
